@@ -3,11 +3,6 @@ Visit - https://awwwards-ranboo-weblone.vercel.app/
 
 ![Scrrenshot](./src/components/img/screenshot.png)
 
-# About the AUTHOR
-
-Follow on instagram - @chaniru.lk 
-For more designs and inspiring website development /
-awwwards remakes :-)
 
 # Getting Started with Create React App
 
