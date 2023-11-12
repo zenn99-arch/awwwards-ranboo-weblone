@@ -1,7 +1,9 @@
 
 Visit - https://awwwards-ranboo-weblone.vercel.app/
 
-![Scrrenshot](./src/components/img/screenshot.png)
+![Screenshot 2023-11-12 092755](https://github.com/zenn99-arch/awwwards-ranboo-weblone/assets/72511459/459bab03-2bde-4ebd-bb69-97ac37104ff3)
+![Screenshot 2023-11-12 092740](https://github.com/zenn99-arch/awwwards-ranboo-weblone/assets/72511459/af0039e6-af9d-4937-a242-27d84bf70a16)
+
 
 
 # Getting Started with Create React App
